@@ -1,5 +1,5 @@
 
-# 🧿 Zocial - MERN Instagram Clone
+#  Zocial - MERN Instagram Clone
 
 Zocial is a full-stack social media application inspired by Instagram. Built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js), it supports user authentication (email/password + Google), post creation, likes, comments, bookmarks, messaging, and real-time video calls.
 
